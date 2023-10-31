@@ -1,4 +1,4 @@
-<h2 align="left">hi! i'm vic and i'm a computer science student from brazil  💻📚</h2>
+<h2 align="left">hi! i'm a computer science student from brazil  💻📚</h2>
 
 ###
 
